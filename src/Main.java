@@ -52,4 +52,9 @@ public class Main {
         
 
     }
+
+    public static void juegosDeAzar(){
+        hashMap<Integer,ArrayList<Integer>> sorteos =
+        new HashMap<Integer,ArrayList
+    }
 }
